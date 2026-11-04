@@ -1,0 +1,5 @@
+.form-cita { background: #fff; padding: 1rem 1.2rem; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.form-cita label { display: block; font-size: .85rem; font-weight: 600; margin: .6rem 0 .2rem; }
+.form-cita__recep { margin: 0; font-size: .85rem; color: var(--gris); }
+.form-cita__fila { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; }
+.form-cita .boton { margin-top: .8rem; }

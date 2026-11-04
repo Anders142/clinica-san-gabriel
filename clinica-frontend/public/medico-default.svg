@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Foto por defecto">
+  <rect width="120" height="120" fill="#d9efec"/>
+  <circle cx="60" cy="45" r="20" fill="#0f766e"/>
+  <path d="M20 112c0-22 18-36 40-36s40 14 40 36z" fill="#0f766e"/>
+  <path d="M52 84h16v6H52z" fill="#fff"/>
+</svg>

@@ -1,0 +1,10 @@
+.encabezado {
+  background: var(--verde); color: #fff; padding: .8rem 1.2rem;
+  display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; align-items: center;
+}
+.encabezado__marca { display: flex; align-items: center; gap: .8rem; }
+.encabezado__logo { width: 52px; height: 52px; border-radius: 12px; background: #fff; }
+.encabezado__titulo { font-size: 1.4rem; margin: 0; }
+.encabezado__fecha { margin: 0; font-size: .85rem; opacity: .9; }
+.encabezado__contexto { display: flex; gap: .8rem; flex-wrap: wrap; }
+.encabezado__contexto label { display: flex; flex-direction: column; font-size: .75rem; gap: .2rem; }

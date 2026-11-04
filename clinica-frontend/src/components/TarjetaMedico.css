@@ -1,0 +1,5 @@
+.tarjeta-medico { background: #fff; border-radius: 10px; padding: 1rem; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.tarjeta-medico__foto { width: 90px; height: 90px; border-radius: 50%; object-fit: cover; }
+.tarjeta-medico h3 { margin: .5rem 0 .2rem; font-size: 1rem; }
+.tarjeta-medico__esp { color: var(--verde); font-weight: 600; margin: 0; }
+.tarjeta-medico__cmp { color: var(--gris); font-size: .85rem; margin: .2rem 0 0; }

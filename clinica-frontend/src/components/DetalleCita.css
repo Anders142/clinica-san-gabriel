@@ -1,0 +1,5 @@
+.detalle { background: #fff; border-radius: 10px; padding: 1rem 1.2rem; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.detalle dl { display: grid; grid-template-columns: 110px 1fr; gap: .3rem .6rem; margin: 0 0 .8rem; }
+.detalle dt { font-weight: 600; color: var(--gris); }
+.detalle dd { margin: 0; }
+.detalle__acciones { display: flex; gap: .5rem; flex-wrap: wrap; }

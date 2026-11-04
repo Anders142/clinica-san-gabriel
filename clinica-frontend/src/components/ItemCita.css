@@ -1,0 +1,8 @@
+.item-cita { display: flex; align-items: center; justify-content: space-between; gap: .6rem; padding: .6rem .8rem; border-bottom: 1px solid #e5e7eb; background: #fff; }
+.item-cita p { margin: .1rem 0 0; font-size: .85rem; color: var(--gris); }
+.item-cita--activa { background: var(--verde-claro); }
+.estado { padding: .15rem .6rem; border-radius: 999px; font-size: .75rem; font-weight: 700; text-transform: capitalize; background: #e5e7eb; }
+.estado--pendiente { background: #fef3c7; color: #92400e; }
+.estado--confirmada { background: #dbeafe; color: #1e40af; }
+.estado--atendida { background: var(--exito-claro); color: var(--exito); }
+.estado--cancelada { background: var(--rojo-claro); color: var(--rojo); }

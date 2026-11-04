@@ -1,0 +1,4 @@
+.resumen__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: .6rem; }
+.resumen__total, .resumen__item { border-radius: 10px; padding: .6rem; text-align: center; text-transform: capitalize; font-size: .85rem; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.resumen__item { box-shadow: none; }
+.resumen__total span, .resumen__item span { display: block; font-size: 1.6rem; font-weight: 700; }

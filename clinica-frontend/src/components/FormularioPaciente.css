@@ -1,0 +1,5 @@
+.form-paciente { background: #fff; padding: 1rem 1.2rem; border-radius: 10px; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.form-paciente__campo { margin-bottom: .7rem; }
+.form-paciente__campo label { display: block; font-size: .85rem; font-weight: 600; margin-bottom: .2rem; }
+.form-paciente__campo input[aria-invalid='true'] { border-color: var(--rojo); }
+.form-paciente__error { color: var(--rojo); font-size: .8rem; }
